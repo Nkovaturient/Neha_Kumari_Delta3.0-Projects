@@ -1,5 +1,12 @@
-# Delta-Projects
-All Delta students can create a PR to this repo to merge their projects.
+# ⚡🍁 Delta-Projects 🍀⭐ 
+- ## Hello there!👋  Neha Kumari this side!
+     - currently a 2nd Year College student!
+     - Passionately engaged in my coding odyssey- Journey to master **Full Stack Web Development**.
+
+ ## MY-Projects
+ - Starting on, I will be "commiting" and uploading all my projects that I have made and will be working on... 
+   -Feel free to comment, fork and ping me in case of any catch(e){} ⁉️
+ 
 
 ## How to add your project in this repository?
 1. Fork this repository.
