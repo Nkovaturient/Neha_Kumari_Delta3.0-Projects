@@ -4,8 +4,8 @@
      - Passionately engaged in my coding odyssey- Journey to master **Full Stack Web Development**.
 
  ## MY-Projects
- - Starting on, I will be "commiting" and uploading all my projects that I have made and will be working on... 
-   -Feel free to comment, fork and ping me in case of any catch(e){} ⁉️
+ - Starting on, I will be uploading all my projects I have created and will be working on... 
+- Feel free to comment, fork and ping me in any case of catch(e){} ⁉️
  
 
 ## How to add your project in this repository?
